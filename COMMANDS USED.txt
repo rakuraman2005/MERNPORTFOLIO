@@ -5,3 +5,14 @@ INITIALIZING REACT PROJECT
 ---- npm start or npm run build or npm run dev
 ---- rafce to create skeleton
 ---- npm i react-router-dom
+
+GIT
+echo "# MERNPORTFOLIO" >> README.md
+git init
+git add README.md ,.
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rakuraman2005/MERNPORTFOLIO.git
+git push -u origin main
+
+npm install gh -pages --save-dev
