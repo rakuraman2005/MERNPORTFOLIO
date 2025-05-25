@@ -1,0 +1,7 @@
+COMMANDS USED
+
+INITIALIZING REACT PROJECT
+---- npx create-react-app client
+---- npm start or npm run build or npm run dev
+---- rafce to create skeleton
+---- npm i react-router-dom
